@@ -1,0 +1,22 @@
+# https://www.codechef.com/LTIME36/problems/ACBALL
+
+def solve(x, y):
+    c = []
+    for i in range(len(x)):
+        if x[i] == y[i] == 'W':
+            c.append('B')
+        elif x[i] == y[i] == 'B':
+            c.append('W')
+        else:
+            c.append("B") 
+    return ''.join(c)
+
+def acball():
+    T = int(raw_input())
+    for t in range(T):
+        x = raw_input()
+        y = raw_input()
+        print solve(x,y)
+
+if __name__ == '__main__':
+    acball()
