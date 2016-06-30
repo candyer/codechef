@@ -1,7 +1,7 @@
 # https://www.codechef.com/problems/MARCHA1
 
 def choices(n,m,banknotes):
-    """n <= 20;  the value of a single banknote <= 1000 """
+    """ n <= 20;  the value of a single banknote <= 1000 """
     if m == 0 or m < 1:
         return False
     elif n == 0:
