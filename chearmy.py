@@ -1,4 +1,4 @@
-# https://www.codechef.com/JUNE16/problems/CHEARMY
+# https://www.codechef.com/JUNE16/problems/CHEARMY 
 
 def solve(k):
     if k == 0: return '0'
