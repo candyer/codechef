@@ -1,4 +1,4 @@
-# https://www.codechef.com/problems/NUKES
+# https://www.codechef.com/problems/NUKES 
 
 def solve(A,N,K):
     """ 
