@@ -1,4 +1,5 @@
 # https://www.codechef.com/problems/HORSES
+
 def solve(n, horse):
     horse.sort()
     res = horse[1]-horse[0]
