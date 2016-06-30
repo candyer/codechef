@@ -1,4 +1,4 @@
-# https://www.codechef.com/JUNE16/problems/CHCOINSG
+# https://www.codechef.com/JUNE16/problems/CHCOINSG 
 
 def solve(n):
     """
