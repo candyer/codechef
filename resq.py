@@ -1,4 +1,4 @@
-# https://www.codechef.com/problems/RESQ
+# https://www.codechef.com/problems/RESQ 
 
 def solve(n):
     """
