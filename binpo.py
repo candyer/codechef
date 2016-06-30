@@ -1,4 +1,4 @@
-# https://www.codechef.com/JUNE16/problems/BINOP
+# https://www.codechef.com/JUNE16/problems/BINOP 
 
 def solve(a,b):
     """
