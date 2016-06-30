@@ -1,5 +1,5 @@
 # https://www.codechef.com/problems/STONES
-
+ 
 def solve(j,s):
     """ 1 <= T <= 100, 1 <= |J|, |S| <= 100 """
     if s == None: return 0
