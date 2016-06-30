@@ -8,6 +8,11 @@ def solve(num_songs, songs, index):
             return i+1 
 
 def johny():
+    """
+    1 <= T <= 1000
+    1 <= K <= N <= 100
+    1 <= Ai <= 109
+    """
     T = int(raw_input())
     for i in range(T):
         num_songs = int(raw_input())
