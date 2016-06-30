@@ -1,4 +1,5 @@
 # https://www.codechef.com/problems/HOLES
+
 def solve(s):
     hole = {'B':2}
     for c in ['A','D','O','P','Q','R']:
