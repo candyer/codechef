@@ -7,11 +7,11 @@ def solve(s):
             count += 1
     return count
  
-def four():
+def luckfour():
     T = int(raw_input())
     for i in range(T):
         num = raw_input()
         print solve(num)
  
 if __name__ == '__main__':
-    four() 
+    luckfour() 
