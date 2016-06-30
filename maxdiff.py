@@ -1,4 +1,4 @@
-# https://www.codechef.com/problems/MAXDIFF
+# https://www.codechef.com/problems/MAXDIFF 
 
 def solve(n, k, weights):
     """
