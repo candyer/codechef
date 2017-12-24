@@ -1,7 +1,6 @@
 # https://www.codechef.com/problems/FBMT
+# two special cases:  n == 0; n == 1
 
-# def solve(n, s):
-# 	return n, s
 
 from collections import defaultdict
 
